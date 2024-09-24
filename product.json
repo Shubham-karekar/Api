@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Ballpoint Pens",
+    "price": 89,
+    "feature": true,
+    "rating": 4.5,
+    "company": "natraj"
+  },
+  {
+    "name": "Notebooks (Pack of 3)",
+    "price": 130,
+    "feature": true,
+    "rating": 4.2,
+    "company": "classmate"
+  },
+  {
+    "name": "Markers (Set of 5)",
+    "price": 100,
+    "feature": true,
+    "rating": 4.0,
+    "company": "apsare"
+  },
+  {
+    "name": "Sticky Notes",
+    "price": 60,
+    "feature": false,
+    "rating": 4.1,
+    "company": "sundaram"
+  },
+  {
+    "name": "Sticky Pen",
+    "price": 60,
+    "feature": false,
+    "rating": 4.1,
+    "company": "sundaram"
+  },
+  {
+    "name": "Paper Clips (Box of 100)",
+    "price": 399,
+    "feature": false,
+    "rating": 4.3,
+    "company": "doms"
+  },
+  {
+    "name": "Paper set",
+    "price": 399,
+    "feature": false,
+    "rating": 4.3,
+    "company": "doms"
+  },
+  {
+    "name": "Pencile box",
+    "price": 60,
+    "feature": false,
+    "rating": 4.3,
+    "company": "truenote"
+  },
+  {
+    "name": "Pencile box",
+    "price": 60,
+    "feature": false,
+    "rating": 4.3,
+    "company": "apsare"
+  },
+  {
+    "name": "Pencile box",
+    "price": 60,
+    "feature": false,
+    "rating": 4.3,
+    "company": "camlin"
+  },
+  {
+    "name": "Pencile box",
+    "price": 60,
+    "feature": false,
+    "rating": 4.3,
+    "company": "hindustan pencil"
+  },
+  {
+    "name": "Notebooks (Pack of 3)",
+    "price": 130,
+    "feature": true,
+    "rating": 4.2,
+    "company": "sundaram"
+  }
+]
